@@ -12,3 +12,4 @@ C:\Users\Lenovo\source\repos\ReverseWords\ReverseWords\obj\Debug\net8.0\refint\R
 C:\Users\Lenovo\source\repos\ReverseWords\ReverseWords\obj\Debug\net8.0\ReverseWords.pdb
 C:\Users\Lenovo\source\repos\ReverseWords\ReverseWords\obj\Debug\net8.0\ReverseWords.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\ReverseWords\ReverseWords\obj\Debug\net8.0\ref\ReverseWords.dll
+C:\Users\Lenovo\source\repos\ReverseWords\ReverseWords\obj\Debug\net8.0\ReverseWords.sourcelink.json
